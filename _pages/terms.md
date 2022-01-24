@@ -5,9 +5,9 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+January 2022
 
-# Privacy Policy
+# Terms
 Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
 **Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
