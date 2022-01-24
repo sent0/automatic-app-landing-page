@@ -21,12 +21,12 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Tiago Martinho
-your_link                                 : https://twitter.com/martinho_t
-your_city                                 : Portugal
+your_link                                 :
+your_city                                 :
 email_address                             : sento.cast.app@gmail.com
 facebook_username                         :
 instagram_username                        :
-twitter_username                          : martinho_t
+twitter_username                          :
 github_username                           :
 youtube_username                          :
 
