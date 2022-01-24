@@ -5,56 +5,60 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+January 24th 2022
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+We are the developers of Sentō. This privacy policy describes how we process your personal information and which privacy rights you have when you are using Sentō. Please contact us at the contact information below if you have any questions or comments.
 
-<br>
+## 1. Personal Information Collection and Use
+If you grant Sentō permission, we may collect and use personal information from you as follows.
+Camera
+Purpose: Sentō needs camera access to submit feedback about the app.
+Microphone
+Purpose: Sentō needs microphone access to scan for nearby Cast devices.
+Photos
+Purpose: Sentō needs photo access to submit feedback about the app.
+Bluetooth
+Purpose: Sentō needs bluetooth access to scan for nearby Cast devices.
+Please note that you can decline a permission or revoke it after you granted it in the iOS settings. If you do so, we will not collect your personal information related to that permission. However, the functionality of Sentō may be limited as a result.
+We may receive technical information about your device, for example, its IP address or operating system.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## 2. Privacy Rights of Users in the European Economic Area
+If you are in the European Economic Area and if you have any questions or would like to exercise any of your rights, please contact us at the contact information below. You have the rights to:
+Request a copy of your personal information
+Request corrections of inaccurate personal information, deletions, or additions to your personal information
+Restrict or object to personal information processing
+Withdraw your consent for processing personal information at any time
+Request a portable copy of your personal information for transferring it to another service
+Lodge a complaint with a supervisory authority
+We are processing your personal information only as allowed by the law under the following circumstances:
+We have your consent
+Under a contract we have with you or for entering into a contract with you
+We are required to do so by law
+To protect your vital interests or those of another person
+To carry out a task in the public interest or as officially authorized
+If we or a third party is acting under a legitimate interest recognized by law
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+## 3. Children’s Personal Information
+Users of Sentō must be at least 13 years old. We do not knowingly collect personal information from children. If we learn that we have collected personal information from a child, we will take all reasonable steps to delete it as soon as possible. If you become aware that a child has provided personal information to us, please contact us at the contact information below.
 
-### 1.2 Information you provide to us
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+## 4. How Long We Keep Your Personal Information
+We don’t keep personal information.
 
-<br>
+## 5. How We Protect Your Personal Information
+We don’t collect personal information.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## 6. Policy Changes
+For updates visit this page at every app update.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+## 7. Accessibility
+The app implements accessibility using Apple technologies.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+## 8. Contact Us
 
-<br>
+Please contact us if you have any questions or concerns.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+TIAGO FRANCISCO MARTINHO, UNIPESSOAL LDA
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
-
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+sentō.cast.app@gmail.com
