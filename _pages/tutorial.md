@@ -15,4 +15,4 @@ Then tap Manage Extensions, Select the Sentō extension to turn the extension on
 
 After the extension is enabled, when you find a video online you play that video and tap the Sentō button to import the video into the app and send it to the television.
 
-Try it with the tutorial video below:
+Try it with the video below:
