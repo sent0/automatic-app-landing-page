@@ -13,6 +13,6 @@ Then tap Manage Extensions, Select the Sentō extension to turn the extension on
 
 ## Run Sentō
 
-After the extension is enabled, when you find a video online you play that video and tap the Sentō button to import the video into the app and send it to the television.
+After the extension is enabled, when you find a video online you play that video and tap the Sentō button to import the video into the app and send it to the television. Be sure to play the video in Safari and to skip the ads before extracting the video.
 
 Try it with the video below:
