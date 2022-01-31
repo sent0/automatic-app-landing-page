@@ -8,7 +8,8 @@ include_in_header: false
 
 ## Install Sentō
 
-Tap the Page Settings button (ᴀA) on the left side of the search field, then tap Manage Extensions. Select the Sentō extension to turn the extension on.
+Tap the Page Settings button (ᴀA) on the left side of the search field in Safari.
+Then tap Manage Extensions, Select the Sentō extension to turn the extension on.
 
 ## Run Sentō
 
