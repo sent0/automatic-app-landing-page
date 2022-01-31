@@ -11,37 +11,37 @@
         </script>
     {% elsif file.path contains 'assets/videos/' %}
         {% unless file.path contains 'assets/videos/Place-video-files-here.txt' %}
-            <script>
+            <!-- <script>
                 $(function() {
                     $(".iphoneScreen").addClass("hidden");
                     console.log("remove screenshot");
                 });
-            </script>
+            </script> -->
         {% endunless %}
         {% if file.extname == ".mov" or file.extname == ".mp4" %}
-            <script>
+            <!-- <script>
                 $(function() {
                     $(".videoContainer").removeClass("hidden");
                     $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/mp4">');
                     console.log("{{ file.path }}");
                 });
-            </script>
+            </script> -->
         {% elsif file.extname == ".ogg" %}
-            <script>
+            <!-- <script>
                 $(function() {
                     $(".videoContainer").removeClass("hidden");
                     $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/ogg">');
                     console.log("{{ file.path }}");
                 });
-            </script>
+            </script> -->
         {% elsif file.extname == ".webm" %}
-        <script>
+        <!-- <script>
             $(function() {
                 $(".videoContainer").removeClass("hidden");
                 $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/webm">');
                 console.log("{{ file.path }}");
             });
-        </script>
+        </script> -->
         {% endif %}
     {% endif %}
 {% endfor %}
