@@ -13,3 +13,5 @@ Tap the Page Settings button (ᴀA) on the left side of the search field, then t
 ## Run Sentō
 
 After the extension is enabled, when you find a video online you play that video and tap the Sentō button to import the video into the app and send it to the television.
+
+Try it with the tutorial video below:
