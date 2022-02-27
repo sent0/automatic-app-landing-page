@@ -11,6 +11,8 @@ include_in_header: false
 Tap the Page Settings button (ᴀA) on the left side of the search field in Safari.
 Then tap Manage Extensions, Select the Sentō extension to turn the extension on.
 
+If you are on iOS 14 you can use the Share or Action Extension in Safari.
+
 ## Run Sentō
 
 After the extension is enabled, when you find a video online you play that video and tap the Sentō button to import the video into the app and send it to the television. Be sure to play the video in Safari and to skip the ads before extracting the video.
