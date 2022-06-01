@@ -5,23 +5,23 @@ include_in_header: false
 ---
 
 **Last updated**  
-January 24th 2022
+June 1st 2022
 
 # Privacy Policy
 
-We are the developers of Sentō. This privacy policy describes how we process your personal information and which privacy rights you have when you are using Sentō. Please contact us at the contact information below if you have any questions or comments.
+We are the developers of TV Browser. This privacy policy describes how we process your personal information and which privacy rights you have when you are using TV Browser. Please contact us at the contact information below if you have any questions or comments.
 
 ## 1. Personal Information Collection and Use
-If you grant Sentō permission, we may collect and use personal information from you as follows.
+If you grant TV Browser permission, we may collect and use personal information from you as follows.
 Camera
-Purpose: Sentō needs camera access to submit feedback about the app.
+Purpose: TV Browser needs camera access to submit feedback about the app.
 Microphone
-Purpose: Sentō needs microphone access to scan for nearby Cast devices.
+Purpose: TV Browser needs microphone access to scan for nearby Cast devices.
 Photos
-Purpose: Sentō needs photo access to submit feedback about the app.
+Purpose: TV Browser needs photo access to submit feedback about the app.
 Bluetooth
-Purpose: Sentō needs bluetooth access to scan for nearby Cast devices.
-Please note that you can decline a permission or revoke it after you granted it in the iOS settings. If you do so, we will not collect your personal information related to that permission. However, the functionality of Sentō may be limited as a result.
+Purpose: TV Browser needs bluetooth access to scan for nearby Cast devices.
+Please note that you can decline a permission or revoke it after you granted it in the iOS settings. If you do so, we will not collect your personal information related to that permission. However, the functionality of TV Browser may be limited as a result.
 We may receive technical information about your device, for example, its IP address or operating system.
 
 ## 2. Privacy Rights of Users in the European Economic Area
@@ -41,7 +41,7 @@ To carry out a task in the public interest or as officially authorized
 If we or a third party is acting under a legitimate interest recognized by law
 
 ## 3. Children’s Personal Information
-Users of Sentō must be at least 13 years old. We do not knowingly collect personal information from children. If we learn that we have collected personal information from a child, we will take all reasonable steps to delete it as soon as possible. If you become aware that a child has provided personal information to us, please contact us at the contact information below.
+Users of TV Browser must be at least 13 years old. We do not knowingly collect personal information from children. If we learn that we have collected personal information from a child, we will take all reasonable steps to delete it as soon as possible. If you become aware that a child has provided personal information to us, please contact us at the contact information below.
 
 ## 4. How Long We Keep Your Personal Information
 We don’t keep personal information.
