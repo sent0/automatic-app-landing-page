@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-24th January 2022
+June 1st 2022
 
 # Terms of Use
 
@@ -17,7 +17,7 @@ The words of which the initial letter is capitalized have meanings defined under
 ## Definitions
 For the purposes of these Terms and Conditions:
 
-*Application* means the software program provided by the Company downloaded by You on any electronic device, named Sentō
+*Application* means the software program provided by the Company downloaded by You on any electronic device, named TV Browser
 
 *Application Store* means the digital distribution service operated and developed by Apple Inc. (Apple App Store) or Google Inc. (Google Play Store) in which the Application has been downloaded.
 
@@ -34,7 +34,7 @@ For the purposes of these Terms and Conditions:
 *Terms and Conditions* (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
 Third-party Social Media Service means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
 
-*Website* refers to Sentō, accessible from http://sent0.github.io/landing-page/
+*Website* refers to TV Browser, accessible from http://sent0.github.io/landing-page/
 
 *You* means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
